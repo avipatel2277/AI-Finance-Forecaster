@@ -1,4 +1,4 @@
-# 💰 AI-Powered Personal Finance Predictor
+# 💰 AI-Powered Personal Finance Assistant
 
 A Full-Stack Data Science application that aggregates personal financial data, visualizes spending habits, and utilizes **Machine Learning** to forecast future monthly expenses. 
 
